@@ -40,7 +40,7 @@ export const clientReviews = [
   },
   {
     id: 3,
-    name: 'Pooja',
+    name: 'Hooda Dhamid',
     position: 'Manager at Singularium Technologies Pvt. Ltd. ',
     img: 'assets/review4.png',
     review:
@@ -53,7 +53,7 @@ export const myProjects = [
     title: 'Movie Recommendation System',
     desc: 'It is a recommender system that recommends movies based on genre and ratings of most watched movies through a kaggle based dataset. It has a unique feature selection technique where it selects genres and ratings of movies all together and based on the average rating closest to what movie is entered by the user, the top 15 movies are suggested by the system.',
     subdesc:
-      'Built as an interface with tkinter library in python and deployed it on streamlit.',
+      'Built as an interface with tkinter library in python.',
     href: '',
     texture: '/textures/project/MOVIE.mp4',
     logo: '/assets/Movie.png',
@@ -174,10 +174,10 @@ export const myProjects = [
   },
   {
     title: 'Face Detection using PCA',
-    desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
+    desc: 'It is a deep learning model that can be used to detect faces in an image. It can be used in real-time face recognition.',
     subdesc:
-      'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-    href: 'https://github.com/Nuhayd12/',
+      'Built with Tensorflow library in python and run on jupyter notebook with real time images of different people.',
+    href: 'https://github.com/Nuhayd12/PCA',
     texture: '/textures/project/PCA.mp4',
     logo: '/assets/project-logo5.png',
     logoStyle: {
