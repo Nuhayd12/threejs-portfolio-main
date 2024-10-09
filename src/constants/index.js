@@ -25,7 +25,7 @@ export const clientReviews = [
   {
     id: 1,
     name: 'Naaz M N',
-    position: 'Batchmate in Srinivas Institute of Technology',
+    position: 'Event Lead, SSOSC at Srinivas Institute of Technology',
     img: 'assets/Naaz.jpg',
     review:
       'Nuhayd is a very hardworking individual with a good intellect and a passion for learning. I would highly recommend him for any ML or data engineering projects.',
@@ -36,15 +36,15 @@ export const clientReviews = [
     position: 'Assistant Professor at Srinivas Institute of Technology',
     img: 'assets/Nivin K S.jpg',
     review:
-      'Adrian’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional! Fantastic work.',
+      'Nuhayd consistently performs well in every subject and does his work on time with a strong sense of dedication towards learning.',
   },
   {
     id: 3,
-    name: 'John Dohsas',
-    position: 'Project Manager at UrbanTech ',
-    img: 'assets/review3.png',
+    name: 'Pooja',
+    position: 'Manager at Singularium Technologies Pvt. Ltd. ',
+    img: 'assets/review4.png',
     review:
-      'I can’t say enough good things about Adrian. He was able to take our complex project requirements and turn them into a seamless, functional website. His problem-solving abilities are outstanding.',
+      'I can’t say enough good things about Nuhayd. His dedication towards work is phenomenal and is very well-behaved.',
   },
 ];
 
